@@ -1,0 +1,25 @@
+{
+  "name": "qr-code-gen",
+  "version": "1.0.0",
+  "description": "QR Code generator",
+  "homepage": "https://github.com/DeepakV077/qr-code-generator#readme",
+  "bugs": {
+    "url": "https://github.com/DeepakV077/qr-code-generator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeepakV077/qr-code-generator.git"
+  },
+  "license": "ISC",
+  "author": "Deepak V",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^12.9.1",
+    "qr-image": "^3.2.0"
+  },
+  "devDependencies": {}
+}
